@@ -1,0 +1,253 @@
+body {
+    background-image: url("../images/brushed.png");
+
+}
+
+
+#topbar {
+    background-color: white;
+    border-bottom: 2px;
+    border-bottom-color: #dddddd;
+    border-bottom-style: solid;
+    margin-bottom: 15px;
+    padding-left: 14%;
+    padding-right: 8%;
+    overflow: hidden;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    
+}
+
+#topbarcontent {
+    width: 960px;
+}
+
+a {
+    text-decoration: none;
+    color: #777777;
+}
+
+#about {
+    float: right;
+    padding-right: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    margin-right: 5px;
+    border-right: 1px;
+    border-right-style: solid;
+    border-right-color: #dddddd;
+    font-family: Georgia;
+}
+
+#portfolio {
+    float: right;
+    padding-right: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-right: 1px;
+    border-right-style: solid;
+    border-right-color: #dddddd;
+    font-family: Georgia;
+
+}
+
+#contact {
+    float: right;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 5px;
+    font-family: Georgia;
+}
+
+#entirecontent {
+    width: 960px;
+    padding-bottom: 40px;
+    padding-top: 90px;
+    padding-left: 14%;
+    padding-right: 0%;
+    overflow: auto;
+    
+}
+
+#name {
+    background-color: #4aaaa5;
+    font-size: 24px;
+    font-family: Georgia;
+    color: white;
+    width: 150px;
+    text-align: center;
+    padding: 20px;
+    float: left;
+}
+
+#maincontentindex {
+    background-color: white;
+    width: 610px;
+    padding: 25px;
+    float: left;
+}
+
+#aboutme {
+    color: #4aaaa5;
+    font-family: Georgia;
+    font-size:24px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    border-bottom: 2px;
+    border-bottom-color: #dddddd;
+    border-bottom-style: solid;
+
+}
+
+#profilepicture {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    float: left;
+    margin-right: 20px;
+    
+}
+
+#paragraph {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: helvetica;
+    color: #777777;
+    line-height: 1.4;
+
+}
+
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-top: 25px;
+    background-color: #666666;
+    color: rgba(255, 255, 255, 0.829);
+    font-family: helvetica;
+    font-size: 12px;
+    text-align: center;
+    border-top: 3px;
+    border-top-color: #4aaaa5;
+    border-top-style: solid;
+ }
+
+#sidebar {
+    float: right;
+    background-color: white;
+    width: 270px;
+    height: 150px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+#connect {
+    font-size: 20px;
+    text-align: center;
+    font-family: Georgia;
+    color: #4aaaa5;
+    padding-top: 20px;
+    margin-left: 50px;
+    margin-right: 54px;
+    border-bottom: 1px;
+    border-bottom-color: #dddddd;
+    border-bottom-style: solid;
+
+}
+
+#github {
+ padding-top:15px;
+ padding-bottom:15px;
+ padding-left:0px;
+ padding-right:3px;
+ margin-left: 35px;
+    float: left;
+}
+
+#linkedin {
+    padding-top:15px;
+    padding-bottom:15px;
+    float: left;
+}
+
+#stack {
+    padding-top:18px;
+    padding-bottom:15px;
+    padding-left:5px;
+    padding-right:20px;
+    float: left;
+}
+
+#maincontentcontact {
+    background-color: white;
+    width: 610px;
+    height: 400px;
+    padding: 25px;
+    float: left;
+}
+
+#form {
+    float: left;
+    overflow: auto;
+    padding:10;
+    margin-top: 25px;
+    font-family: Helvetica;
+    color: #777777;
+}
+
+.field {
+    margin-bottom: 5px;
+    font-size: 16px;
+}
+
+#box1 {
+    padding-top: 5px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+
+}
+
+#box2 {
+    padding-top: 5px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+
+}
+
+#box3 {
+    padding-top: 5px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+
+}
+
+#submit {
+    background-color: #4aaaa5;
+    color: white;
+    width: 100px;
+    height: 40px;
+    font-family: Helvetica;
+    text-decoration: none;
+    border: none;
+    font-size: 16px;
+}
+
+#placeholder {
+    padding-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
